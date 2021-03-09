@@ -65,8 +65,8 @@ class Home extends Component {
       <React.Fragment>
         <Banner />
 
-        {/* <Yogabanner section02={section02} /> */}
-        <Yoga />
+        {/* <Yogabanner section02={section02} />  Conatains feel good component*/}
+        <Yoga /> 
         {/* <Homeworkoutbanner section03={section03}/> */}
         <Homeworkout />
         {/* <Diet showDetails={this.showDetails} /> */}
